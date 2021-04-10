@@ -24,24 +24,6 @@
     "description": "We need somebody to restart the servers when they fall over."
   },
   {
-    "id": "SyYjLQRHd",
-    "companyId": "SJV0-wdOM",
-    "title": "New Job 5",
-    "description": "Test 5"
-  },
-  {
-    "id": "rJL7dmArd",
-    "companyId": "SJV0-wdOM",
-    "title": "Tester",
-    "description": "You must be good at finding bugs."
-  },
-  {
-    "id": "BJXGj70rd",
-    "title": "New Job 7",
-    "description": "Test 7",
-    "companyId": "SJV0-wdOM"
-  },
-  {
     "id": "HkOnoXABd",
     "title": "Product Manager",
     "description": "You need to give something to do to the developers otherwise they get bored.",
